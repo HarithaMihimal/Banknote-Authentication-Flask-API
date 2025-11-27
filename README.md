@@ -20,8 +20,7 @@ This project is an end-to-end machine learning API that predicts the authenticit
 ### 1. Clone the repo (or use your own repo link)
 
 ```bash
-git clone <YOUR_GITHUB_LINK>
-cd <repo-directory>
+git clone https://github.com/HarithaMihimal/Banknote-Authentication-Flask-API.git
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
